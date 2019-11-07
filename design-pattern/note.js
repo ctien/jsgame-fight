@@ -5,7 +5,7 @@
 *       context ở đây được thể hiện thông qua từ khóa "this"
     }
 
-    @ Vậy muốn kiểm xoát tốt con trỏ "this" thì phải hiểu được context trong từng trường hợp cụ thể
+    @ Vậy muốn kiểm soát tốt con trỏ "this" thì phải hiểu được context trong từng trường hợp cụ thể
 
     * call và apply truyền new-context vào hàm và "thực thi" ngay lập tức:
     * call và apply chỉ khác nhau cách truyền "arguments..." vào hàm:
